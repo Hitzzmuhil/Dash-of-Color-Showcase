@@ -8,9 +8,9 @@ This game is a chaotic racer with time stoppage and color based collision mechan
 
 \- Team Unity Repository: https://github.com/CSCI-526-Spring-2025/csci-526-final-project-dash-of-colour
 
-\- Playable Builds (Gold): <PASTE FINAL BUILD LINK>
+\- Playable Builds (Gold): https://tvshetty.github.io/Dash%20Of%20Colour/Gold/index.html
 
-\- Gameplay Video (Gold): <PASTE VIDEO LINK>
+\- Gameplay Video (Gold): https://www.youtube.com/watch?v=9FvjLoscI0Y&t=8s
 
 ## My Contributions
 - Implemented a SUPERHOT-inspired time-stop mechanic allowing players to pause gameplay and dynamically recolor the environment for tactical planning.
